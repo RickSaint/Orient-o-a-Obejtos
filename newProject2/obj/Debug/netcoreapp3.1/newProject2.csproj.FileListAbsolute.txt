@@ -1,0 +1,13 @@
+C:\Users\rbomf\source\repos\newProject2\newProject2\bin\Debug\netcoreapp3.1\newProject2.exe
+C:\Users\rbomf\source\repos\newProject2\newProject2\bin\Debug\netcoreapp3.1\newProject2.deps.json
+C:\Users\rbomf\source\repos\newProject2\newProject2\bin\Debug\netcoreapp3.1\newProject2.runtimeconfig.json
+C:\Users\rbomf\source\repos\newProject2\newProject2\bin\Debug\netcoreapp3.1\newProject2.runtimeconfig.dev.json
+C:\Users\rbomf\source\repos\newProject2\newProject2\bin\Debug\netcoreapp3.1\newProject2.dll
+C:\Users\rbomf\source\repos\newProject2\newProject2\bin\Debug\netcoreapp3.1\newProject2.pdb
+C:\Users\rbomf\source\repos\newProject2\newProject2\obj\Debug\netcoreapp3.1\newProject2.csprojAssemblyReference.cache
+C:\Users\rbomf\source\repos\newProject2\newProject2\obj\Debug\netcoreapp3.1\newProject2.AssemblyInfoInputs.cache
+C:\Users\rbomf\source\repos\newProject2\newProject2\obj\Debug\netcoreapp3.1\newProject2.AssemblyInfo.cs
+C:\Users\rbomf\source\repos\newProject2\newProject2\obj\Debug\netcoreapp3.1\newProject2.csproj.CoreCompileInputs.cache
+C:\Users\rbomf\source\repos\newProject2\newProject2\obj\Debug\netcoreapp3.1\newProject2.dll
+C:\Users\rbomf\source\repos\newProject2\newProject2\obj\Debug\netcoreapp3.1\newProject2.pdb
+C:\Users\rbomf\source\repos\newProject2\newProject2\obj\Debug\netcoreapp3.1\newProject2.genruntimeconfig.cache
